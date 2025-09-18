@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>텍스트 띄우기</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: url("img (1).webp") no-repeat center center;
+      background-size: cover;
+      color: white;
+      font-size: 3rem;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  여기에 원하는 글자!
+</body>
+</html>
